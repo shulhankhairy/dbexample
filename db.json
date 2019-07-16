@@ -1,0 +1,7 @@
+{
+  "vehicle" : [
+    {"id" : 1, "brand" : "toyota", "type" : "alphard"},
+    {"id" : 2, "brand" : "honda", "type" : "astrea"},
+    {"id" : 3, "brand" : "mitsubishi", "type" : "lancer evo"}
+  ]
+}
